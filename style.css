@@ -92,8 +92,10 @@ header {
     color: var(--dark-blue);
 }
 .data-star {
-    justify-content: space-between;
-    margin:5px 0;
+    column-gap: 60px;
+    margin:5px 0 0 70px;
+    font-family: cursive;
+    font-weight: 540;
 }
 .data-star p {
     margin-left: 100px;
